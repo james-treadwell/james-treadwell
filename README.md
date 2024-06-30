@@ -1,16 +1,40 @@
-## Hi there 👋
+# James Treadwell
 
-<!--
-**james-treadwell/james-treadwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm James Treadwell, a third-year undergraduate at Colorado College, majoring in Computer Science and Economics. I'm passionate about coding, data analytics, and sustainability. Here you'll find some of my projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- **Programming Languages:** Java, Python
+- **Data Analysis:** Excel, SQL Server
+- **Certifications:** Google Data Analytics Professional Certificate
+
+### 📚 Education
+- **Colorado College** - B.A. in Computer Science and Economics (Current GPA: 3.9)
+
+### 💼 Experience
+- **Analyst, Sustainability Portfolio - Investment Club**
+  - Analyzed sustainable investment opportunities and presented findings to club members.
+
+### 🌟 Projects
+- **Tetris Game in Java**
+  - Developed a fully-functional Tetris game using Java.
+- **Word Frequency Analyzer**
+  - Created a tool to analyze word frequency in a given text.
+- **Sudoku Solver**
+  - Implemented an algorithm to solve Sudoku puzzles.
+
+### 🚀 Notable Achievements
+- **Google Data Analytics Professional Certificate**
+  - Acquired skills in data cleaning, analysis, visualization, and project management.
+
+### 📫 How to Reach Me
+- **Email:** [j_treadwell@coloradocollege.edu](mailto:j_treadwell@coloradocollege.edu)
+- **LinkedIn:** [https://www.linkedin.com/in/james-treadwell-638314201/](https://https://www.linkedin.com/in/james-treadwell-638314201/)
+
+### 🤝 Let's Connect!
+Feel free to explore my repositories and contribute. I'm always open to collaborating on exciting projects!
+
+---
+
+Thank you for visiting my GitHub profile!
