@@ -30,7 +30,7 @@ I'm James Treadwell, a third-year undergraduate at Colorado College, majoring in
 
 ### 📫 How to Reach Me
 - **Email:** [j_treadwell@coloradocollege.edu](mailto:j_treadwell@coloradocollege.edu)
-- **LinkedIn:** [https://www.linkedin.com/in/james-treadwell-638314201/](https://https://www.linkedin.com/in/james-treadwell-638314201/)
+- **LinkedIn:** [linkedin.com/in/james-treadwell-638314201/](https://www.linkedin.com/in/james-treadwell-638314201/)
 
 ### 🤝 Let's Connect!
 Feel free to explore my repositories and contribute. I'm always open to collaborating on exciting projects!
