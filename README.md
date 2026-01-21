@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-I'm James Treadwell, a third-year undergraduate at Colorado College, majoring in Computer Science and Economics. I'm passionate about coding, data analytics, and sustainability. Here you'll find some of my projects and contributions.
+I'm James Treadwell, a fourth-year undergraduate at Colorado College, majoring in Computer Science and Economics. I'm passionate about coding, data analytics, and sustainability. Here you'll find some of my projects and contributions.
 
 ### 🔧 Skills
 - **Programming Languages:** Java, Python, C#
