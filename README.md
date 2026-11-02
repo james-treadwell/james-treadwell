@@ -23,6 +23,8 @@ React · Node.js/Express · SQLite · [Repo](https://github.com/CCIC-Portfolio-T
 ### Algorithmic TSP Solver
 Held-Karp (exact) and Christofides (approximation) solvers, benchmarked against a random baseline on symmetric and asymmetric instances for solution quality, memory, and runtime.
 
+Java
+
 ### Media Literacy ML Model
 Two Python models (K-Nearest Neighbors on word-frequency features) that classify news sources by political lean and flag real versus fake news. Built at DIS Copenhagen.
 
