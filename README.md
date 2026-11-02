@@ -18,7 +18,7 @@ Python · LangGraph · [Repo]([link]) · [Demo]([link])
 ### Portfolio Tracker
 Bloomberg-style web app used by 30+ Colorado College Investment Club members to track 40+ holdings, with automated price fetching and valuation replacing manual tracking.
 
-React · Node.js/Express · SQLite · [Repo]([(https://github.com/CCIC-Portfolio-Tracker/CCIC)]) 
+React · Node.js/Express · SQLite · [Repo]([link](https://github.com/CCIC-Portfolio-Tracker/CCIC)) 
 
 ### Algorithmic TSP Solver
 Held-Karp (exact) and Christofides (approximation) solvers, benchmarked against a random baseline on symmetric and asymmetric instances for solution quality, memory, and runtime.
